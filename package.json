@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenterrain/dynamicServer.git"
+  },
+  "keywords": [
+    "dynamic-server"
+  ],
+  "author": "tenterrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenterrain/dynamicServer/issues"
+  },
+  "homepage": "https://github.com/tenterrain/dynamicServer#readme"
+}
